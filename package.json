@@ -1,0 +1,40 @@
+{
+  "name": "react-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React TypeScript on Replit, using Vite bundler",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/roboto": "^5.2.8",
+    "@mui/icons-material": "^7.3.2",
+    "@mui/material": "^7.3.2",
+    "@tanstack/react-query": "^5.90.2",
+    "axios": "^1.12.2",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.23.22",
+    "react-countdown": "^2.3.6",
+    "react-hook-form": "^7.63.0",
+    "react-router-dom": "^7.9.3",
+    "swiper": "^12.0.2",
+    "yup": "^1.7.1",
+    "zustand": "^5.0.8"
+  }
+}

@@ -1,0 +1,22 @@
+.flash-sales-section {
+  padding: 3rem 0;
+}
+
+.product-card-img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: #f5f5f5;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #e0e0e0;
+}
